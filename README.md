@@ -4,8 +4,8 @@
 > 학교마다 다를 수 있음  
 > 이 문서의 링크들은 *단대부고*에서 테스트됨
 
-제안, 토론, 링크 추가 건의등등은 Issues에서 할 수 있음  
-Pull Request로 직접 편집해서 수정 제의 넣을 수 있음
+제안, 토론, 링크 추가 건의등등은 [Issues](https://github.com/DominoKorean/ko-school-blocked-domain-list/issues)에서 할 수 있음  
+[Pull Request](https://github.com/DominoKorean/ko-school-blocked-domain-list/pulls)로 직접 편집해서 수정 제의 넣을 수 있음
 
 > pornhub같은 성인사이트나 뉴토끼같은 유해사이트는 아직 시도 안함
 
