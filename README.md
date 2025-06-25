@@ -12,7 +12,7 @@
 > [!NOTE]
 > 연계 링크 (ex. itch.io 연계 링크 makham.itch.io )까지 전부 막혀있는 경우 옆에 `Under` 가 붙음  
 > 대부분 링크는 웹 대신 앱을 쓰면 안막혀있음  
-> VPN으로 안뚤림 나도 뚫는법 모름  
+> VPN으로 안뚫림 나도 뚫는법 모름  
 
 **목차**
 - [학교 와이파이 막힌 도메인 목록](#학교-와이파이-막힌-도메인-목록)
@@ -36,7 +36,7 @@
     > X(트위터)자체는 안막힘. t.co는 X내부에서 다른 링크를 타고 이동할때 사용돼는 단축 링크
 - https://www.pixiv.net
 - https://www.fandom.com
-  > 내부 산하 문서 링크 (ex. lol.fandom.com)등은안막힘
+  > 내부 산하 문서 링크 (ex. lol.fandom.com)등은 안막힘
     - https://support.gamepedia.com
 - https://twitch.tv
 
