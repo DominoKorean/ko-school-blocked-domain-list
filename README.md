@@ -182,7 +182,7 @@
         - https://conanexiles.com
         - https://conanexiles.gamepedia.com U
 	- **라이엇 게임즈** https://www.riotgames.com
-	    - 리그오브 레전드 / 전략적 팀 전투[^4]
+	    - 리그오브 레전드 / 전략적 팀 전투
 	        - https://www.leagueoflegends.com
 	        - https://teamfighttactics.leagueoflegends.com
 	        - https://op.gg U
