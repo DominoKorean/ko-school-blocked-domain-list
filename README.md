@@ -340,6 +340,9 @@
 - https://80.lv
 - https://dev.epicgames.com
 
+## 언론/뉴스
+- https://www.yna.co.kr
+
 
 ## 웹툰
 - https://www.lezhin.com
