@@ -127,7 +127,9 @@
     - **로비오 엔터테이먼트** http://www.rovio.com
         - https://www.angrybirds.com
 - **밸브 코퍼레이션**
-    - https://store.steampowered.com
+    - 스팀 https://store.steampowered.com
+        - https://steamcommunity.com
+        - https://steamdb.info U
     - https://www.teamfortress.com
     - https://www.counter-strike.net
     - https://theportalwiki.com U
