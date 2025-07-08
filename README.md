@@ -106,6 +106,13 @@
     - https://metroid.nintendo.com
     - https://kirby.nintendo.com
     - https://www.nintendoswitch.com.cn
+    - https://www.smashbros.com
+    - https://animalcrossing.nintendo.com
+    - https://supermariorun.com
+    - https://ac-pocketcamp.com
+    - https://fire-emblem-heroes.com
+    - https://mariokarttour.com
+    - https://www.mariowiki.com U
         - 포켓몬스터
             - https://www.pokemonkorea.co.kr
             - https://www.pokemon.co.jp
@@ -113,13 +120,7 @@
             - https://www.pokemon.cn
             - https://pokemongolive.com
             - https://store.pokemongolive.com
-            - https://pokerogue.net `U`
-    - https://www.smashbros.com
-    - https://animalcrossing.nintendo.com
-    - https://supermariorun.com
-    - https://ac-pocketcamp.com
-    - https://fire-emblem-heroes.com
-    - https://mariokarttour.com
+            - https://pokerogue.net U
 - **SEGA** 
     - https://sega.co.jp
     - https://sega.jp
@@ -321,9 +322,12 @@
 
 
 ### 게임 뉴스
-- https://www.gamemeca.com
-- https://www.gameinsight.co.kr
-- https://www.thisisgame.com
+- 국내
+    - https://www.gamemeca.com
+    - https://www.gameinsight.co.kr
+    - https://www.thisisgame.com
+- 해외
+    - https://www.ign.com
 
 ### 모드 및 서드파티
 - https://www.nexusmods.com
