@@ -328,6 +328,7 @@
     - https://www.thisisgame.com
 - 해외
     - https://www.ign.com
+    - https://kr.ign.com
 
 ### 모드 및 서드파티
 - https://www.nexusmods.com
