@@ -191,7 +191,7 @@
 	        - https://op.gg U
 	        - https://lolchess.gg U
 	    - https://playvalorant.com
-	- 터틀락 스튜디오
+	- **터틀락 스튜디오**
 	    - https://www.back4blood.com
 - https://www.ea.com
 - http://www.gearboxsoftware.com
@@ -200,6 +200,11 @@
     - https://cyberpunk.net
 - https://2k.com
 - https://www.roblox.com
+- https://www.taito.co.jp
+- **코나미**
+    - https://my.konami.net
+    - http://eagate.573.jp
+- http://www.uniana.com
 
 ### 웹게임 유통/호스팅/스토어
 - https://www.crazygames.co.kr
