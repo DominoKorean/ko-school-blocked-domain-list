@@ -339,6 +339,7 @@
     - https://www.gamemeca.com
     - https://www.gameinsight.co.kr
     - https://www.thisisgame.com
+    - http://www.ilovepcbang.com
 - 해외
     - https://www.ign.com
     - https://kr.ign.com
