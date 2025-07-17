@@ -94,7 +94,7 @@
 			        - https://diablo2.blizzard.com
 			        - https://diablo3.blizzard.com
 			        - https://diablo4.blizzard.com
-			        - https://mod.diablo.noktis.pl U
+			        - https://mod.diablo.noktis.pl `U`
     	- **이드 소프트웨어**
 	    	- http://doom.com
 -  **플레이스테이션** https://www.playstation.com
@@ -114,7 +114,7 @@
     - https://ac-pocketcamp.com
     - https://fire-emblem-heroes.com
     - https://mariokarttour.com
-    - https://www.mariowiki.com U
+    - https://www.mariowiki.com `U`
         - 포켓몬스터
             - https://www.pokemonkorea.co.kr
             - https://www.pokemon.co.jp
@@ -122,7 +122,7 @@
             - https://www.pokemon.cn
             - https://pokemongolive.com
             - https://store.pokemongolive.com
-            - https://pokerogue.net U
+            - https://pokerogue.net `U`
 - **SEGA** 
     - https://sega.co.jp
     - https://sega.jp
@@ -136,10 +136,10 @@
 - **밸브 코퍼레이션**
     - 스팀 https://store.steampowered.com
         - https://steamcommunity.com
-        - https://steamdb.info U
+        - https://steamdb.info `U`
     - https://www.teamfortress.com
     - https://www.counter-strike.net
-    - https://theportalwiki.com U
+    - https://theportalwiki.com `U`
     - https://underlords.com
 - **에픽게임즈** https://epicgames.com
     - https://store.epicgames.com
@@ -189,13 +189,13 @@
         - https://warframe.com
     - **펀컴** https://www.funcom.com
         - https://conanexiles.com
-        - https://conanexiles.gamepedia.com U
+        - https://conanexiles.gamepedia.com `U`
 	- **라이엇 게임즈** https://www.riotgames.com
 	    - 리그오브 레전드 / 전략적 팀 전투
 	        - https://www.leagueoflegends.com
 	        - https://teamfighttactics.leagueoflegends.com
-	        - https://op.gg U
-	        - https://lolchess.gg U
+	        - https://op.gg `U`
+	        - https://lolchess.gg `U`
 	    - https://playvalorant.com
 	- **터틀락 스튜디오**
 	    - https://www.back4blood.com
@@ -385,7 +385,7 @@
 
 > [!NOTE]
 > 스토어 설치 후 추가 다운로드/로그인만 막히고 이후 사용(ex. 게임 플레이)는 안막혔을 수도 있음  
-> 웹 도메인도 같이 막혔으면 해당 도메인과 앱 목록 모두 옆에 'App'이라고 붙어있음  
+> 웹 도메인도 같이 막혔으면 해당 도메인과 앱 목록 모두 옆에 `App`이라고 붙어있음  
 > 아이패드(애플 앱스토어)를 통해 설치/테스트됨  
 
 - 카트라이더 러쉬플러스 
