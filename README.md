@@ -333,6 +333,7 @@
     - https://www.hattrick.org
 - https://farmrpg.com
 - https://play.aidungeon.com
+- https://www.chess.com
 
 
 ### 게임 뉴스
