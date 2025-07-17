@@ -221,6 +221,7 @@
 - https://game.naver.com
 - https://www.modd.io
 - https://www.hangame.com
+    - https://baduk.hangame.com
 - https://cardgames.app
 - http://www.capogames.net
 - http://orteil.dashnet.org
@@ -376,4 +377,18 @@
 ## 기타
 - https://web.archive.org
 - https://geulgu.com
+
+
+
+# 앱
+웹서비스를 사용하는 앱중 막힌 앱 목록
+
+> [!NOTE]
+> 스토어 설치 후 추가 다운로드/로그인만 막히고 이후 사용(ex. 게임 플레이)는 안막혔을 수도 있음  
+> 웹 도메인도 같이 막혔으면 해당 도메인과 앱 목록 모두 옆에 'App'이라고 붙어있음  
+> 아이패드(애플 앱스토어)를 통해 설치/테스트됨  
+
+- 카트라이더 러쉬플러스 
+- 치지직
+
 
