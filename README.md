@@ -370,10 +370,10 @@
 - https://www.yna.co.kr
 
 
-## 웹툰
+## 웹툰/소설
 - https://www.lezhin.com
 - https://www.toptoon.com
-
+- https://novelpia.com
 
 ## 기타
 - https://web.archive.org
