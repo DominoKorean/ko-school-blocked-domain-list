@@ -12,8 +12,11 @@
 > [!NOTE]
 > 연계 링크 (ex. itch.io 연계 링크 makham.itch.io )까지 전부 막혀있는 경우 옆에 `Under` 가 붙음  
 > 대부분 링크는 웹 대신 앱을 쓰면 안막혀있음  
-> VPN으로 안뚫림 나도 뚫는법 모름  
 > 가끔 핀터레스트처럼 막힌게 풀리는 경우도 존재함
+
+> [!TIP]
+> 안드로이드(갤럭시, 샤오미등등 아이폰 외 폰)는 설정에서 **프라이빗 DNS**에서 구글같은 외부 DNS로 잡으면 됨
+> iOS 아직 못찾음
 
 **목차**
 - [학교 와이파이 막힌 도메인 목록](#학교-와이파이-막힌-도메인-목록)
@@ -348,6 +351,7 @@
     - https://www.gameinsight.co.kr
     - https://www.thisisgame.com
     - http://www.ilovepcbang.com
+    - https://www.gametoc.co.kr
 - 해외
     - https://www.ign.com
     - https://kr.ign.com
